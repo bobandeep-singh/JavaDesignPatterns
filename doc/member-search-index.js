@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"design.patterns.decorator.example.shape","c":"DecoratePatternWithShapeDemo","l":"DecoratePatternWithShapeDemo()","url":"%3Cinit%3E()"},{"p":"design.patterns.decorator.example.shape","c":"DecoratePatternWithShapeDemo","l":"main(String[])","url":"main(java.lang.String[])"}]
